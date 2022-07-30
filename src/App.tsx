@@ -59,7 +59,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <React.StrictMode>
+    
     <DragDropContext onDragEnd={onDragEnd}>
       <div className="App">
         <span className="header">Taskify</span>
@@ -72,7 +72,7 @@ const App: React.FC = () => {
         />
       </div>
     </DragDropContext>
-    </React.StrictMode>
+    
   );
 };
 

@@ -18,7 +18,7 @@ const TodoList: React.FC<props> = ({
 }) => {
   return (
     <div className="container">
-      <React.StrictMode>
+      
       <Droppable droppableId="TodosList">
         {(provided, snapshot) => (
           <div
@@ -63,7 +63,7 @@ const TodoList: React.FC<props> = ({
           </div>
         )}
       </Droppable>
-      </React.StrictMode>
+     
     </div>
   );
 };

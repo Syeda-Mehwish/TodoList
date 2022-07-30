@@ -40,7 +40,7 @@ const SingleTodo: React.FC<{
   };
 
   return (
-    <React.StrictMode>
+    
     <Draggable draggableId={todo.id.toString()} index={index}>
       {(provided, snapshot) => (
         <form
@@ -83,7 +83,7 @@ const SingleTodo: React.FC<{
         </form>
       )}
     </Draggable>
-    </React.StrictMode>
+   
   );
 };
 
