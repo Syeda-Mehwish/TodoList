@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Todo List-React Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have use React Typescript for developing this project
 
 ## Available Scripts
 
@@ -44,8 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 https://user-images.githubusercontent.com/104040556/181917414-60f498fc-f7ed-433c-a2b0-4de5a4852d52.mp4
 
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Packages Used
+-react-beautiful-dnd (Used For Drag and Drop Functionality )
